@@ -1,5 +1,5 @@
 # Face_Recognition
-This repository contains code for Face Recognition using Machine Learning.
+This repository contains code for Face Recognition using Transfer Learning.
 
 I used MobileNet Model for this project.
 
